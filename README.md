@@ -19,6 +19,7 @@ This guide walks you through installing and setting up CloudStream to enhance yo
 | csx      | Bollyflix, Cinemaluxe, CineStream (⭐), Cinevez, Extractors, GDIndex, MoviesDrive, Moviesmod, NetflixMirror, OnlineMoviesHindit, VegaMovies, World4uFree. |
 
 *Note: (مستودع) here refers to a collection of media, including music, movies, anime, TV shows, OVAs, documentaries, live content, torrents, and more.*
+</details>
 
 ## Tutorial 
 Watch the video below for a step-by-step tutorial.
