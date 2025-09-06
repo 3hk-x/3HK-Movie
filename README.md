@@ -1,5 +1,9 @@
 # 3HK-Movie
-Flexible Cloudstream setup to explore and organize movies, series, and more with ease.
+Flexible Cloudstream setup to explore and organize movies, series, and more with ease.<br>
+---
+**⚠️ Important Note: This content is primarily designed for *Android* devices. However, *iPhone* users don’t need to worry you can still enjoy it on your computer by using an emulator such as [Bluestacks](filename=BlueStacksInstaller_5.22.102.1003_native_beb10eee792c1f938839f878d811af56_MDs1LDM7MTUsMTsxNSw0OzE1LDU7MTU=.exe), [MSI](https://download-2.msi.com/uti_exe/nb/MSI-APP-Player.zip), or any similar option.**
+---
+
 ## Installing
 This guide walks you through installing and setting up CloudStream to enhance your streaming experience.
   * Step 1 : Install the CloudStream base app [Stable](https://github.com/recloudstream/cloudstream/releases/tag/v4.5.4) <br>
@@ -21,5 +25,22 @@ This guide walks you through installing and setting up CloudStream to enhance yo
 *Note: (مستودع) here refers to a collection of media, including music, movies, anime, TV shows, OVAs, documentaries, live content, torrents, and more.*
 </details>
 
+## Advanced
+ * Free & Secure
+ * 100% Ads-Free
+ * No Login & Tracking
+ * Unlimited Downloads
+ * High-Quality Content
+ * Smart TV Supported
+ * Chromecast Support
+ * Multiple Server Links
+ * Huge Content Library
+ * Customized Subtitles
+ * Multilingual Content
+ * Highly Compatible
+ * Modern & Smart UI/UX
+ * Personalized Content
+ * Inbuilt Video Player
+ 
 ## Tutorial 
 Watch the video below for a step-by-step tutorial.
