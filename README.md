@@ -43,4 +43,6 @@ This guide walks you through installing and setting up CloudStream to enhance yo
  * Inbuilt Video Player
  
 ## Tutorial 
-Watch the video below for a step-by-step tutorial.
+Watch the video for a step-by-step tutorial.
+
+[![Click to Watch](https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/google-drive/google-drive.png)](https://drive.google.com/file/d/1Xgt6jj2N-C0s-50AAfN8_14tqxdyPI-P/view)
